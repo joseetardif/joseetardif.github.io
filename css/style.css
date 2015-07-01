@@ -1,12 +1,4 @@
 /* Ref: http://getbootstrap.com/css/ */
-@media (min-width: 768px) {
-  .navbar {
-    border-radius: 4px;
-  }
-}
-.navbar {
-  border: 1px solid #004b63;
-}
 
 /* Used in index.html */
 .myself {
