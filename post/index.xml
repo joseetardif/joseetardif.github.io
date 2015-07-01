@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Josée Tardif</title>
+    <link>https://joseetardif.com/post/</link>
+    <description>Recent content in Posts on Josée Tardif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <copyright>Josée Tardif</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://joseetardif.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>New web site</title>
+      <link>https://joseetardif.com/post/new/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://joseetardif.com/post/new/</guid>
+      <description>&lt;p&gt;This site is based on &lt;a href=&#34;https://github.com/maruel/webskel&#34;&gt;webskel&lt;/a&gt;. This website
+skeleton can be used as a template to quickly bootstrap a website.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
