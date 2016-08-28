@@ -1,0 +1,89 @@
+body {
+  color: #333;
+  background-color: #FFF;
+  font-size: 2em;
+}
+
+h1 {
+  font-family: "Dancing Script";
+  font-size: 4.5rem;
+  font-weight: 700;
+}
+
+@media (min-width: 750px) {
+  h1 {
+    font-size: 6rem;
+  }
+}
+
+h2 {
+  font-size: 3.6rem;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 2.8rem;
+  font-weight: 500;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  background-color: #D490D4;
+  border-color: #A876A8;
+  color: #FFF;
+  height: 5rem;
+  font-size: 2rem;
+}
+
+button:hover {
+  background-color: #A876A8;
+  border-color: #785578;
+  color: #FFF;
+  height: 5rem;
+  font-size: 2rem;
+}
+
+.top {
+  text-align: center;
+  background-color: #CFFCFC;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.boutons {
+  text-align: center;
+  background-image: url('books.jpg');
+  background-size: cover;
+  background-position: center center;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+  margin-bottom: 3rem;
+}
+
+.face {
+  width: 192px;
+  border-radius: 25px;
+}
+
+.try-right {
+  text-align: center;
+  margin: 2rem;
+}
+
+@media (min-width: 750px) {
+  .try-right {
+    float: right;
+  }
+}
+
+.mission {
+}
+
+.services {
+}
+
+.histoire {
+}
